@@ -1,0 +1,234 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左眼　微笑"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右眼　微笑"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "眼球 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "眼球 Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "左眉上下"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "",
+			"Name": "左眉　左右"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "右眉　角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "嘴部　变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴巴　张开和闭合"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "脸颊"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "身体旋转　X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "身体旋转　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "身体旋转　Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "摇动　前发"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "摇动　侧发"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "摇动　后发"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "hand"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "耳朵L1"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "耳朵L2"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "耳朵R1"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "耳朵R2"
+		},
+		{
+			"Id": "Param_Angle_Rotation_2_tail",
+			"GroupId": "ParamGroup",
+			"Name": "[1]tail"
+		},
+		{
+			"Id": "Param_Angle_Rotation_4_tail",
+			"GroupId": "ParamGroup",
+			"Name": "[3]tail"
+		},
+		{
+			"Id": "Param_Angle_Rotation_5_tail",
+			"GroupId": "ParamGroup",
+			"Name": "[4]tail"
+		},
+		{
+			"Id": "Param_Angle_Rotation_6_tail",
+			"GroupId": "ParamGroup",
+			"Name": "[5]tail"
+		},
+		{
+			"Id": "Param_Angle_Rotation_7_tail",
+			"GroupId": "ParamGroup",
+			"Name": "[6]tail"
+		},
+		{
+			"Id": "Param_Angle_Rotation_8_tail",
+			"GroupId": "ParamGroup",
+			"Name": "[7]tail"
+		},
+		{
+			"Id": "Param_Angle_Rotation_9_tail",
+			"GroupId": "ParamGroup",
+			"Name": "[8]tail"
+		},
+		{
+			"Id": "Param_Angle_Rotation_10_tail",
+			"GroupId": "ParamGroup",
+			"Name": "[9]tail"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "tail"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Head",
+			"Name": "Head"
+		},
+		{
+			"Id": "tail_Skinning",
+			"Name": "tail(蒙皮)"
+		},
+		{
+			"Id": "Part4",
+			"Name": "tail(回转)"
+		},
+		{
+			"Id": "EyeL",
+			"Name": "EyeL"
+		},
+		{
+			"Id": "EyeR",
+			"Name": "EyeR"
+		}
+	]
+}

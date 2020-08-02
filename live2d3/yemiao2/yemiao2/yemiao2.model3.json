@@ -1,0 +1,105 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "yemiao2.moc3",
+		"Textures": [
+			"yemiao2.1024/texture_00.png"
+		],
+		"Physics": "yemiao2.physics3.json",
+		"DisplayInfo": "yemiao2.cdi3.json",
+		"Motions": {
+			"Idle": [
+				{
+					"File": "motions/haru_g_idle.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m01.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m02.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m03.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m04.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m06.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m07.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m09.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m10.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m11.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m13.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m14.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m15.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m17.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m19.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m20.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m21.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m22.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m23.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m24.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m25.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m26.motion3.json"
+				}
+			],
+			"ye": [
+				{
+					"File": "motions/chuier.motion3.json"
+				},
+				{
+					"File": "motions/erduo.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	],
+	"HitAreas": []
+}

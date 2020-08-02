@@ -1,0 +1,63 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "yetu.moc3",
+		"Textures": [
+			"yetu.1024/texture_00.png"
+		],
+		"Motions": {
+			"Idle": [
+				{"File": "motions/haru_g_idle.motion3.json"},
+				{"File": "motions/haru_g_m12.motion3.json"},
+				{"File": "motions/haru_g_m15.motion3.json"},
+				{
+					"File": "motions/haru_g_m17.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m21.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m22.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m23.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m24.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m25.motion3.json"
+				},
+				{
+					"File": "motions/haru_g_m26.motion3.json"
+				}
+			],
+			"ye": [
+				{
+					"File": "motions/chuier.motion3.json"
+				},{
+					"File": "motions/haru_g_m26.motion3.json",
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5
+				}
+			]
+		},
+		"Physics": "yetu.physics3.json",
+		"DisplayInfo": "yetu.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	]
+}

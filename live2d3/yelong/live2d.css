@@ -1,0 +1,139 @@
+.flavr-container{
+    z-index: 99999999999999999999 !important;
+}
+.yeLive {
+    -khtml-user-select: none;
+    user-select: none;
+    -moz-user-select: none;
+    touch-action: none;
+    position: fixed;
+    opacity: 1;
+    left: 0px;
+    bottom: 0px;
+    z-index: 99999;
+    width: 150px;
+    height: 170px
+}
+
+#live2d{
+    width:150px;height:150px;pointer-events: none;
+    bottom:0px;
+    position: absolute;
+}
+
+.ye_sayings.live2d {
+    opacity: 0;
+    width: 100%;
+    height: auto;
+    margin: auto;
+    padding: 7px;
+    /*top:0px;*/
+    bottom: 130px;
+    /*bottom: 100%;*/
+    left: 0px;
+    text-align: center;
+    border: 1px solid rgba(224, 186, 140, 0.62);
+    border-radius: 12px;
+    background-color: rgba(236, 217, 188, 0.5);
+    box-shadow: 0 3px 15px 2px rgba(191, 158, 118, 0.2);
+    font-size: 13px;
+    font-weight: 400;
+    text-overflow: ellipsis;
+    text-transform: uppercase;
+    overflow: hidden;
+    position: absolute;
+    animation-delay: 5s;
+    animation-duration: 50s;
+    animation-iteration-count: infinite;
+    animation-name: shake;
+    animation-timing-function: ease-in-out;
+    z-index: 9999999999999;
+}
+
+#chatYeRoll {
+    position: absolute;
+    color: rgb(224, 186, 140) !important;
+    font-size: 15px;
+    left: 0px;
+    top:auto;
+    bottom: 0px;
+    opacity: 0;
+    z-index: 9999999999999;
+}
+#chatYe {
+    position: absolute;
+    color: rgb(224, 186, 140) !important;
+    font-size: 15px;
+    right: 0px;
+    top:auto;
+    bottom: 0px;
+    opacity: 0;
+    z-index: 9999999999999;
+}
+#chatYeMore {
+    position: fixed;
+    color: rgb(224, 186, 140) !important;
+    font-size: 15px;
+    right: 20px;
+    bottom: 20px;
+    top:auto;
+    opacity: 0;
+    z-index: 9999999999999;
+}
+.yeLive:hover #chatYe {
+    opacity: 1;
+}
+.yeLive:hover #chatYeRoll {
+    opacity: 1;
+}
+
+.form-row::-webkit-scrollbar {/*滚动条整体样式*/
+    width: 4px;     /*高宽分别对应横竖滚动条的尺寸*/
+    height: 4px;
+}
+.form-row::-webkit-scrollbar-thumb {/*滚动条里面小方块*/
+    border-radius: 5px;
+    -webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.2);
+    background: rgba(0,0,0,0.2);
+}
+.form-row::-webkit-scrollbar-track {/*滚动条里面轨道*/
+    -webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.2);
+    border-radius: 0;
+    background: rgba(0,0,0,0.1);
+}
+.flavr-button{
+    color:white !important;
+}
+
+#yechatdiv {
+    display: block;
+    position: fixed;
+    z-index: 9999999999;
+    right: 220px;
+    bottom: 100px;
+}
+
+#yechatinput{
+    border:0.5px ridge;
+    border-color:rgba(224, 186, 140, 0.9);
+    border-radius: 50px 0 0 50px;
+    height: 25px;
+}
+#yechatsubmit{
+    border-radius: 0 50px 50px 0;
+    height: 25px;
+    outline:none;
+    background-color:	#DCB268;
+    color:white;
+}
+
+@media (max-width: 767px) {
+    #yechatinput{
+        max-width: 45%;
+    }
+    #yechatdiv {
+        /*width:45%;*/
+        left:0px;
+        bottom: 50px;
+    }
+}
