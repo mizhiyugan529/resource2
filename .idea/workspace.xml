@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc7969ed-d6e9-47a0-b389-b000325f5d0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/live2d3/jiedan/jiedan1/bg/touming.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d3/jiedan/jiedan1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d3/jiedan/jiedan1/jiedan1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d3/jiedan/jiedan1/jiedan1/jiedan1.1024/texture_00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d3/jiedan/jiedan1/jiedan1/jiedan1.cdi3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d3/jiedan/jiedan1/jiedan1/jiedan1.moc3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d3/jiedan/jiedan1/jiedan1/jiedan1.model3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d3/jiedan/jiedan1/jiedan1/jiedan1.physics3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/live2d3/jiedan/jiedan1/jiedan1_gai.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,15 +23,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/live2d3/jiedan/jiedan1/jiedan1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/live2d3/jiedan/jiedan1" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\IDEAProject\resource2\music" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\IDEAProject\resource2\live2d3\jiedan\jiedan1\jiedan1" />
       <recent name="D:\IDEAProject\resource2\live2d3\jiedan\jiedan1" />
+      <recent name="D:\IDEAProject\resource2\live2d3\jiedan\jiedan1\jiedan1" />
       <recent name="D:\IDEAProject\resource2\live2d3" />
       <recent name="D:\IDEAProject\resource2\live2d3\yeshu\yeshu" />
       <recent name="D:\IDEAProject\resource2" />
@@ -56,7 +49,7 @@
       <updated>1595857172219</updated>
       <workItem from="1595857175648" duration="1759000" />
       <workItem from="1596365687255" duration="4234000" />
-      <workItem from="1596786311182" duration="779000" />
+      <workItem from="1596786311182" duration="2186000" />
     </task>
     <servers />
   </component>
