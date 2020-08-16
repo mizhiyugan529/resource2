@@ -2,10 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc7969ed-d6e9-47a0-b389-b000325f5d0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/shubiao/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shubiao/tuye.cur" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shubiao/yuyiye.cur" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cursor/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cursor/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/jiedan/jiedan3/jiedan3/jiedan3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/junmoxiao.cmo3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/junmoxiao/junmoxiao/junmoxiao.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/yehu/yehu/export.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/yehu/yehu/original.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/yehu/yehu/preview.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/yehu/yehu/yehu.cmo3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/yehu/yehu/yehu_normal.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/yelong.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/yelong/yelong/Untitled Animation.can3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/yelong/yelong/yelong.cmo3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/yelong/yelong/yelong.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/yemiao1/yemiao1/Untitled Animation.can3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/yemiao1/yemiao1/yemiao1.cmo3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/yemiao1/yemiao1/yemiao1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/yemiao1/yemiao1/yemiao1.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/yemiao2/yemiao2/yemiao2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/yeshu/yeshu/Untitled Animation.can3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/yeshu/yeshu/yeshu.cmo3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/yetu/yetu/Untitled Animation.can3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/yetu/yetu/yetu.cmo3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/live2d3/yetu/yetu/yetu.psd" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +89,7 @@
       <workItem from="1597043842732" duration="1001000" />
       <workItem from="1597128629175" duration="3361000" />
       <workItem from="1597366338274" duration="112000" />
-      <workItem from="1597543683989" duration="742000" />
+      <workItem from="1597543683989" duration="1377000" />
     </task>
     <task id="LOCAL-00001" summary="交单2">
       <created>1597042671523</created>
